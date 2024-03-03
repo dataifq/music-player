@@ -9,4 +9,5 @@ public interface Screens {
     int LIBRARY_ARTISTS = 5;
     int LIBRARY_ALBUMS = 6;
     int LIBRARY_GENRES = 7;
+    int LIBRARY_ONLINE_MUSIC = 8;
 }
